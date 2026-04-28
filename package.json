@@ -1,0 +1,20 @@
+{
+  "name": "blockchain-certificate-verify",
+  "version": "1.0.0",
+  "description": "A minimal blockchain-based academic certificate verification system built with Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start":    "node src/index.js",
+    "demo":     "node src/index.js",
+    "issue":    "node src/index.js issue",
+    "verify":   "node src/index.js verify",
+    "list":     "node src/index.js list",
+    "validate": "node src/index.js validate"
+  },
+  "keywords": ["blockchain", "certificate", "verification", "nodejs"],
+  "author": "Student Project",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
