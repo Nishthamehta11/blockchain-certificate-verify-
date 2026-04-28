@@ -1,0 +1,24 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-04-28T09:11:38.307Z",
+    "data": {
+      "note": "Genesis Block"
+    },
+    "prevHash": "0",
+    "hash": "ac9b6946f3e84bf9dacd5561638ccceec7ba4edb2843b2361f3f6e602dea413a"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-04-28T09:11:38.313Z",
+    "data": {
+      "certId": "CERT-001",
+      "recipient": "HACKER",
+      "course": "Blockchain Technology",
+      "issuer": "MIT",
+      "issuedOn": "2026-04-28T09:11:38.313Z"
+    },
+    "prevHash": "ac9b6946f3e84bf9dacd5561638ccceec7ba4edb2843b2361f3f6e602dea413a",
+    "hash": "88b58c461343f325705b1d0b64a8960cd9e7fe3dbad7aaa33255d8b2db6a154c"
+  }
+]
